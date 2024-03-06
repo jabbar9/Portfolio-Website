@@ -89,5 +89,5 @@ function isValidEmail(email) {
 }
 
 function redirectToPortfolio() {
-    window.location.href = "portfolio/index.html";
+    window.location.href = "Portfolio/index.html";
 }
